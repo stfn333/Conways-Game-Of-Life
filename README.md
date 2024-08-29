@@ -49,11 +49,11 @@ This will start the simulation in a window, where you can see the cellular grid 
 ### Key Controls
 Enter: Start the simulation.
 Space: Pause/Resume the simulation.
-F: Increase the simulation speed (FPS).
-S: Decrease the simulation speed (FPS).
-R: Randomize the grid with a new state.
-C: Clear the grid.
-Mouse Click: Toggle the state of a specific cell between alive and dead.
+- F: Increase the simulation speed (FPS).
+- S: Decrease the simulation speed (FPS).
+- R: Randomize the grid with a new state.
+- C: Clear the grid.
+- Mouse Click: Toggle the state of a specific cell between alive and dead.
 
 ## How to Use
 Customizing the Initial State
