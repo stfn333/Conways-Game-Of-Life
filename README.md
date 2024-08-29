@@ -1,6 +1,6 @@
 # Conway's Game of Life
 
-![Conway's Game of Life](path_to_image)
+![Conway's Game of Life](game_of_life_capture.PNG)
 
 Conway's Game of Life is a cellular automaton devised by the British mathematician John Horton Conway in 1970. This Python implementation treats the cellular grid as a toroidal surface, meaning the edges wrap around both horizontally and vertically, allowing for interesting and continuous patterns.
 
