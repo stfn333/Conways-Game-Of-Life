@@ -56,7 +56,7 @@ Space: Pause/Resume the simulation.
 - Mouse Click: Toggle the state of a specific cell between alive and dead.
 
 ## How to Use
-Customizing the Initial State
+### Customizing the Initial State
 You can customize the initial state of the grid by modifying the Simulation.fill_random() method or by manually toggling cells using the mouse.
 
 ### Changing the Grid Size and Cell Size
